@@ -1,0 +1,35 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 17,
+  "debug.javascript.codelens.npmScripts": "never",
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "git.autofetch": true,
+  "editor.tabSize": 2,
+  "material-icon-theme.activeIconPack": "react",
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "none",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "eslint.codeActionsOnSave.rules": null,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.colorTheme": "Monokai",
+  "settingsSync.ignoredExtensions": [
+    
+  ],
+  "editor.wordWrap": "on"
+}
